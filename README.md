@@ -3,6 +3,7 @@
 Official code for the SIGGRAPH Asia 2026 conference paper:
 
 **Reparametrizing 3D Gaussian Splatting for Real-Time Palette-based Color and Luminance Editing**
+
 [Cheng-Kang Ted Chao](https://github.com/tedchao) and [Yotam Gingold](https://cragl.cs.gmu.edu/)
 
 ## Installation
