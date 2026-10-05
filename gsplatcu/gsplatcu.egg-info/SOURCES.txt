@@ -1,0 +1,9 @@
+LICENSE
+ext.cpp
+gausplat.cu
+kernel.cu
+setup.py
+gsplatcu.egg-info/PKG-INFO
+gsplatcu.egg-info/SOURCES.txt
+gsplatcu.egg-info/dependency_links.txt
+gsplatcu.egg-info/top_level.txt
