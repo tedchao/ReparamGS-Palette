@@ -1,0 +1,22 @@
+name: colorfulgaussians
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - scikit-learn  # haven't tested
+  - scipy # haven't tested
+  - plyfile
+  - matplotlib
+  - faiss-gpu
+  - scikit-image
+  - opencv
+  - pip:
+    - cvxopt
+    - torch
+    - torchvision
+    #==0.16.1
+    - torchaudio
+    #==2.1.1
+    
